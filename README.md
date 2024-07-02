@@ -1,7 +1,10 @@
-#dev-logs project-01-google-search
+# dev-logs project-01-google-search
 
 A note page to record the things I have learned through out the entire project
 
 ---
+2024.07.01
+- In VS code I can use "!" as a shortcut to bring out the HTML boilerplate code.
 
-In vs code I can use "!" as a shortcut to bring out the HTML boilerplate code.
+2024.07.02
+- 
