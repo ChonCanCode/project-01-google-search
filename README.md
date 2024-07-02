@@ -7,4 +7,4 @@ A note page to record the things I have learned through out the entire project
 - In VS code I can use "!" as a shortcut to bring out the HTML boilerplate code.
 
 2024.07.02
-- 
+- HTML basic structure completed, ready to move on to CSS
