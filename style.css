@@ -21,6 +21,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 14px;
 }
 
 nav, section {
@@ -53,6 +54,7 @@ main {
     align-items: center;
     justify-content: center;
     gap: 24px;
+    padding: 0 14px
 
 }
 
@@ -113,5 +115,51 @@ footer {
 
 footer > section {
     padding: 14px;
+}
+
+footer > section:last-child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
     border: 1px solid darkgrey
+}
+
+.footerLinks {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.buttonIcons{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.iconButton {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+#dot {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+header section img {
+    max-width: 42px; 
+    border-radius: 50%;
+    border: 2px solid cyan;
+}
+
+
+@media (min-width: 540px) {
+    footer > section:last-child {
+        flex-direction:row;
+    }
 }

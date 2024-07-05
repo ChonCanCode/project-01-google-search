@@ -11,6 +11,7 @@ A note page to record the things I have learned through out the entire project
 
 2024.07.03
 - Started coding on CSS, learned that I can use website inspection(Q), to highlight each session on the website to show spacing.
+- Project completed.
 
 2024.07.04
-- 
+-Project-01-google-search: responsive web completed
