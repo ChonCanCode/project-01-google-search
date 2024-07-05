@@ -14,4 +14,7 @@ A note page to record the things I have learned through out the entire project
 - Project completed.
 
 2024.07.04
--Project-01-google-search: responsive web completed
+- Project-01-google-search: responsive web completed
+
+2024.07.05
+- Study more on CSS - Flexbox syntax and functionality
